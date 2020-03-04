@@ -1,0 +1,53 @@
+body{
+    background-color: lightblue;
+}
+#logo {
+    height: 60px;
+    width: 120px;
+    padding: 3px;
+}
+
+#link-logo{
+    color: grey;
+}
+
+.bg{
+   background-image: url("../img/image4.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.bg-banniere{
+    background:rgba(230, 242, 255,0.7);
+}
+/* Page values */
+.list-values{
+    font-size: 17px;
+}
+.intro-values{
+    font-size: 18px;
+}
+
+/* Fin values */
+
+/* Page goals */
+
+.texte-goal{
+    font-size:19px;
+}
+
+/* Fin page goals */ 
+.table {
+    border-radius: 5px;
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+}
+
+.resize-img{
+    width: 350px;
+}
+
+.img-style{
+    width:500px;
+}

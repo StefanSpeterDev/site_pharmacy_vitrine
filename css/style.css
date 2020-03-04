@@ -49,5 +49,5 @@ body{
 }
 
 .img-style{
-    width:500px;
+    max-width:500px;
 }
